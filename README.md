@@ -1,1 +1,1 @@
-# bsu_algorithms
+BSU & Algorithms & Labs
